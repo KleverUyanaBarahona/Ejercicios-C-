@@ -1,0 +1,7 @@
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\bin\Debug\valoresaleatorios.exe.config
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\bin\Debug\valoresaleatorios.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\bin\Debug\valoresaleatorios.pdb
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\obj\Debug\valoresaleatorios.csproj.CoreCompileInputs.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\obj\Debug\valoresaleatorios.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\obj\Debug\valoresaleatorios.pdb
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_02\valoresaleatorios\valoresaleatorios\obj\Debug\valoresaleatorios.csprojAssemblyReference.cache

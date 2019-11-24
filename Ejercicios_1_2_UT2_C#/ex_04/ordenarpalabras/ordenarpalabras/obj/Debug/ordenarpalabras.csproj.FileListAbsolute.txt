@@ -1,0 +1,7 @@
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\bin\Debug\ordenarpalabras.exe.config
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\bin\Debug\ordenarpalabras.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\bin\Debug\ordenarpalabras.pdb
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\obj\Debug\ordenarpalabras.csprojAssemblyReference.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\obj\Debug\ordenarpalabras.csproj.CoreCompileInputs.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\obj\Debug\ordenarpalabras.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_04\ordenarpalabras\ordenarpalabras\obj\Debug\ordenarpalabras.pdb

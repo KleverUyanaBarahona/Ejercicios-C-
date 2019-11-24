@@ -1,0 +1,7 @@
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\bin\Debug\ordenar10.exe.config
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\bin\Debug\ordenar10.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\bin\Debug\ordenar10.pdb
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\obj\Debug\ordenar10.csprojAssemblyReference.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\obj\Debug\ordenar10.csproj.CoreCompileInputs.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\obj\Debug\ordenar10.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_03\ordenar10\ordenar10\obj\Debug\ordenar10.pdb

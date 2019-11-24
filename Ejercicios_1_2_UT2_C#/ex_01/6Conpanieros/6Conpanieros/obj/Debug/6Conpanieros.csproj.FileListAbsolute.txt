@@ -1,0 +1,7 @@
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\bin\Debug\6Conpanieros.exe.config
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\bin\Debug\6Conpanieros.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\bin\Debug\6Conpanieros.pdb
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\obj\Debug\6Conpanieros.csprojAssemblyReference.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\obj\Debug\6Conpanieros.csproj.CoreCompileInputs.cache
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\obj\Debug\6Conpanieros.exe
+C:\Users\klips\OneDrive\Escritorio\Desarrollo_de_interfaces\Ejercicios_1_2_UT2_C#\ex_01\6Conpanieros\6Conpanieros\obj\Debug\6Conpanieros.pdb
